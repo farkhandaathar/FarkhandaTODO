@@ -1,0 +1,75 @@
+body{
+    height: 100%;
+    background-image: url("images/7278d5fd.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.head{
+    color: rgb(13, 121, 13);
+	font-size: 3rem;
+	font-weight: 50;
+	text-align: center;
+	margin: 1rem 0 3rem; 
+	font-family: 'Hind', sans-serif;
+}
+
+.Btn{
+    background-color: red;
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: none;
+    height: 40px;
+    border-radius: 25px;
+    width: 100px;
+    margin: 0.25rem;
+} 
+.edit{
+    background-color: rgb(12, 209, 94);
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: none;
+    height: 40px;
+    border-radius: 25px;
+    width: 100px;
+    margin: 0.25rem;
+}
+.add{
+    background-color: rgb(12, 209, 94);
+    padding: 0.5rem 1rem;
+outline: none;
+border: none;
+height: 40px;
+border-radius: 25px;
+width: 100px;
+margin: 0.25rem;
+
+}
+.delall{
+    background-color: red;
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: none;
+    height: 40px;
+    border-radius: 25px;
+    width: 100px;
+    margin: 0.25rem;
+}
+
+.input-box{
+padding: 0.5rem 1rem;
+outline: none;
+border: none;
+height: 50px;
+border-radius: 25px;
+width: 350px;
+margin: 0.25rem;
+font-size: 1.15rem;
+}
+
+.main{
+    font-size: 30px;
+    color: white;
+    list-style: none;
+   
+}
